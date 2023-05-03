@@ -35,5 +35,3 @@ time.sleep(2)
 #create a post button
 postarticle = driver.find_element("xpath", '//span[text() = "Start a post"]').click()
 time.sleep(10)
-
-#jayesh
